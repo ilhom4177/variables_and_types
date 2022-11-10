@@ -8,5 +8,5 @@ c = 2
 d = 4
 # Assign the result of that expression 'https://github.com/codeschool-2022A/variables_and_types#begin09' to variable 'k';
 k = a-b+c-d
-# # Print the variable 'k'.
+# Print the variable 'k'.
 print(k)
