@@ -3,4 +3,5 @@ to = 7
 # Assign 3 (int value) to 'b' variable;
 to = 3
 # Print the difference between 'a' and 'b'.
-print(to+to)
+x = to+to
+print(x)
