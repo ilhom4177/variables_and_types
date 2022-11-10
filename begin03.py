@@ -1,6 +1,6 @@
 # Assign 6 (int value) to 'a' variable;
-to = 6
+a = 6
 # Assign 8 (int value) to 'b' variable;
-to = 8
+b = 8
 # Print the multiplicand 'a' and 'b'.
-print(to+to)
+print(a+b)
