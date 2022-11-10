@@ -1,7 +1,7 @@
 # Assign 7 (int value) to 'a' variable;
-to = 7
+a = 7
 # Assign 3 (int value) to 'b' variable;
-to = 3
+b = 3
 # Print the difference between 'a' and 'b'.
-x = to+to
+x = a+b
 print(x)
